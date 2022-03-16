@@ -23,6 +23,9 @@ public class JmeterTest {
 		driver.getTitle();
 		System.out.println("This is test 1");
 		System.out.println("This is test 2");
+		System.out.println("This is test 3");
+		System.out.println("This is test 4");
+		
 		
 	}
 
