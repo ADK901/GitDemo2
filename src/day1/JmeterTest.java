@@ -26,6 +26,10 @@ public class JmeterTest {
 		System.out.println("This is test 3");
 		System.out.println("This is test 4");
 		
+		//Branching
+		System.out.println("This is test 5");
+		System.out.println("This is test 6");
+		
 		
 	}
 
