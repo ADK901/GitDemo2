@@ -21,6 +21,8 @@ public class JmeterTest {
 		WebDriver driver = new ChromeDriver();
 		driver.get("https://opensource-demo.orangehrmlive.com/");
 		driver.getTitle();
+		System.out.println("This is test 1");
+		System.out.println("This is test 2");
 		
 	}
 
